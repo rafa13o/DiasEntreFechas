@@ -1,0 +1,7 @@
+C:\Users\Rafa\source\repos\CalculoDiasEntreFechas\CalculoDiasEntreFechas\bin\Debug\CalculoDiasEntreFechas.exe.config
+C:\Users\Rafa\source\repos\CalculoDiasEntreFechas\CalculoDiasEntreFechas\bin\Debug\CalculoDiasEntreFechas.exe
+C:\Users\Rafa\source\repos\CalculoDiasEntreFechas\CalculoDiasEntreFechas\bin\Debug\CalculoDiasEntreFechas.pdb
+C:\Users\Rafa\source\repos\CalculoDiasEntreFechas\CalculoDiasEntreFechas\obj\Debug\CalculoDiasEntreFechas.csprojAssemblyReference.cache
+C:\Users\Rafa\source\repos\CalculoDiasEntreFechas\CalculoDiasEntreFechas\obj\Debug\CalculoDiasEntreFechas.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\source\repos\CalculoDiasEntreFechas\CalculoDiasEntreFechas\obj\Debug\CalculoDiasEntreFechas.exe
+C:\Users\Rafa\source\repos\CalculoDiasEntreFechas\CalculoDiasEntreFechas\obj\Debug\CalculoDiasEntreFechas.pdb
